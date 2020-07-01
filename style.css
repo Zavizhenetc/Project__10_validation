@@ -116,11 +116,13 @@ html {
 }
 
 .form__input:valid:not(:placeholder-shown) {
-	border-color: #ffdb4d;
+    /* border-color: green; */
+    border:5px solid green;
 }
 
 .form__input:invalid:not(:placeholder-shown) {
-	border-color: #df4b41;
+    /* border-color:#df4b41; */
+    border:5px solid #df4b41;
 }
 
 .form__input:invalid:not(:placeholder-shown) + .form__error {
