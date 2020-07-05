@@ -1,7 +1,6 @@
-Project__10_validation 
----
+Project__10_validation
+
 Проект в рамках обучения Яндекс.Практикума.
 Реализована валидация форм  посредством `pattern` и `регулярных выражений`
 
-[Активная ссылка]()
- 
+[Активная ссылка](https://zavizhenetc.github.io/Project__10_validation/)
